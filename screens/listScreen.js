@@ -29,4 +29,4 @@ const ListScreen = () => {
   );
 };
 
-export default ListScreen;
+export {ListScreen as ListScreen};
